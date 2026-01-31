@@ -30,4 +30,4 @@ pip install discord.py requests
 
 ### ✍️ Authors
 
-<a href="https://github.com/art1stoff">art1stoff</a>
+<a href="https://github.com/whyrassvet">rassvet</a>
